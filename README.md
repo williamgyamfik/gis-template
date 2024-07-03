@@ -18,7 +18,7 @@ Optional:
 ## Backend
 
 - [x] fastAPI basic API
-- pydantic support
+- [x] pydantic support
 - connect to postgres using ORM
 - add migrtion support
 - setup package manager using uv

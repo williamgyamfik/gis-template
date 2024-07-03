@@ -4,10 +4,10 @@ An attempt for a general template working with the full stack geospatial data.
 
 ## Frontend
 
-- React template using vite + typescript
-- integrate shadCN
-- integrate maplibre
-- create a sample UI with map in the center
+- [x] React template using vite + typescript
+- [x] Integrate shadCN
+- [x] integrate maplibre
+- [x] create a sample UI with map in the center
 
 Optional:
 
@@ -17,7 +17,7 @@ Optional:
 
 ## Backend
 
-- fastAPI basic API
+- [x] fastAPI basic API
 - pydantic support
 - connect to postgres using ORM
 - add migrtion support
@@ -25,7 +25,7 @@ Optional:
 
 Optional:
 
-- Makefile for commands
+- [x] Makefile for commands
 - integrate auth0
 - create users and store data
 
